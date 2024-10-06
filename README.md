@@ -97,9 +97,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=paul-srijan.paul-srijan&"  />
-</div>
+
 
 ###
 
