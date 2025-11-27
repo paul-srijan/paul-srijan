@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Srijan Paul from India<br><br>- 🔭 I’m a full stack developer and UI/UX designer.<br>- 📚 I'm currently learning Android development<br>- 🔥Interested in AI/ML<br>- ⚡ In my free time I love to read</p>
+<p align="left">I'm Srijan Paul from India<br><br>- 🔭 I’m a full stack developer and UI/UX designer.<br>-  🔥Interested in AI/ML<br>- ⚡ In my free time I love to read</p>
 
 ###
 
@@ -54,10 +54,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
